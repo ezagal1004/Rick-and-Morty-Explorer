@@ -6,7 +6,6 @@
   "description": "Rick and Morty Explorer App",
   "author": "Erick jrzagal11@gmail.com",
   "license": "MIT",
-  "homepage": "https://github.com/ezagal1004/Rick-and-Morty-Explorer",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

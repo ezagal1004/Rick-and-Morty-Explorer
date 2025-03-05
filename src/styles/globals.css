@@ -25,6 +25,8 @@ body {
     gap: 20px;
     padding: 20px;
     justify-items: center;
+
+
 }
 
 /* 🃏 Character Cards */
@@ -114,7 +116,7 @@ body {
 /* 📱 Mobile Optimization */
 @media (max-width: 768px) {
     .character-grid {
-        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
 
     .character-details {
